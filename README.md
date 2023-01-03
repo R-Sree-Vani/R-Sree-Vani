@@ -55,7 +55,7 @@ I am a Passionate Frontend Developer <img src="https://media.giphy.com/media/WUl
 <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://reactjs.org/" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;</a>
 <a href="https://nodejs.org/en/docs/" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;</a>
-<a href="https://expressjs.org/en/docs/" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/expressjs/expressjs-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;</a>
+<a href="https://expressjs.org/en/docs/" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;</a>
 </span>
 
 ---

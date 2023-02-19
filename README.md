@@ -51,40 +51,23 @@ I am a Passionate Full Stack Developer <img src="https://media.giphy.com/media/W
 
 ### :hammer_and_wrench: Languages and Tools :
 <!--<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
-</td>
-
-</td>
-
-</tr>
-
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
- 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
-</td>
-<tr>
- 
- </tr>
-</tbody>
-</table>-->
+  <tbody>
+    <tr valign="top">
+      <td width="70%" align="center">
+        <span>𝗛𝗧𝗠𝗟𝟱</span><br>
+        <img height="34px" src="https://cdn.svgporn.com/logos/html-5.svg" margin="10px">
+      </td>
+      <td width="70%" align="center">
+        <span>𝗖𝗦𝗦𝟯</span><br>
+        <img height="34px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="70%" align="center">
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br>
+        <img height="34px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+     </tr>
+   </tbody>
+   </table>-->
 
 
 

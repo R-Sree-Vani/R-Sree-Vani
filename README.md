@@ -66,7 +66,12 @@ I am a Passionate Full Stack Developer <img src="https://media.giphy.com/media/W
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R-Sree-Vani&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Sree-Vani&layout=compact&theme=vision-friendly-dark)](https://github.com/R-Sree-Vani/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Sree-Vani&layout=compact&theme=vision-friendly-dark)](https://github.com/R-Sree-Vani/github-readme-stats) -->
+
+<a href="https://github.com/Neel2904">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Sree-Vani&theme=radical&hide=glsl,python" />
+</a>
+
 
 ![R-Sree-Vani's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-Sree-Vani&show_icons=true&theme=radical)
 

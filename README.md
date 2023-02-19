@@ -16,22 +16,24 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-   :eyes: Hey There
+    Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <h3 align="center">I'm Ramisetti Sree Vani</h3>
 
-<p>Profile Views:</p>
+### :eyes: Profile Views:
 
 ![Visitor Count](https://profile-counter.glitch.me/{R-Sree-Vani}/count.svg) 
 
 
 ---
 
-
+### :trophy: Trophies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=R-Sree-Vani&theme=onedark)](https://github.com/R-Sree-Vani/github-profile-trophy)
+   
+ </p>
 
 ---
 

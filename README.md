@@ -60,6 +60,9 @@ I am a Passionate Full Stack Developer <img src="https://media.giphy.com/media/W
  <a href="https://www.mongodb.com/docs/" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;</a>
 </span>
 
+
+<!--Connect with me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">-->
+
 ---
 
 ### :fire: My Stats :

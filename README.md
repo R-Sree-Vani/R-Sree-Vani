@@ -44,6 +44,44 @@ I am a Passionate Full Stack Developer <img src="https://media.giphy.com/media/W
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+<!--<table>
+<tbody>
+ <tr>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=100px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
+</td>
+
+</td>
+
+</tr>
+
+
+<td align="center" width="33%">
+<img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+ 
+<td align="center" width="33%">
+<img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+</td>
+<tr>
+ 
+ </tr>
+</tbody>
+</table>-->
+
+
+
 <span>
 <a href="https://www.cprogramming.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/cpp/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;"> </a>

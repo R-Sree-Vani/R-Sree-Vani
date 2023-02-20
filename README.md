@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">I'm Ramisetti Sree Vani</h3>
 
-### :eyes: Profile Views:
+### :eyes: Profile View:
 
 ![Visitor Count](https://profile-counter.glitch.me/{R-Sree-Vani}/count.svg) 
 

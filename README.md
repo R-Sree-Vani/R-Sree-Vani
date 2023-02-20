@@ -61,21 +61,21 @@ I am a Passionate Full Stack Developer <img src="https://media.giphy.com/media/W
 <!--<table>
   <tbody>
     <tr valign="top">
-      <td width="20%" align="center">
+      <td width="30%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span>
         <img height="60px" src="https://cdn.svgporn.com/logos/html-5.svg" style="max-width:100%">
       </td>
-      <td width="20%" align="center">
+      <td width="30%" align="center">
         <span>𝗖𝗦𝗦𝟯</span>
         <img height="60px" src="https://cdn.svgporn.com/logos/css-3.svg" style="max-width:100%">
       </td>
-      <td width="20%" align="center">
+      <td width="30%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span>
         <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg" style="max-width:100%">
       </td>
       </tr>
     </tbody>
-  </table>  -->
+  </table> -->
 
 <span>
 <a href="https://www.cprogramming.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"> </a>

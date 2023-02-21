@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 I am a Passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m currently working on `Online Book Exchange System`
+- :telescope: I’m currently working on Online Book Exchange System
 
 - :seedling: I'm currently learning `MERN`
 

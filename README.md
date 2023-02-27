@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 I am a Passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m currently working on Online Book Exchange System
 
-- :seedling: I'm currently learning `MERN`
+- :seedling: I'm currently learning `MERN` stack
 
 - :woman_technologist: All of my projects are available at https://r-sree-vani.github.io/
 

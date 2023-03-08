@@ -43,6 +43,8 @@ I am a Passionate Full Stack Developer <img src="https://media.giphy.com/media/W
 
 - :seedling: I'm currently learning `MERN` stack
 
+-  👯 I’m looking to collaborate on open source project
+
 - :woman_technologist: All of my projects are available at https://r-sree-vani.github.io/
 
 - :speech_balloon: Ask me about HTML, CSS, JS

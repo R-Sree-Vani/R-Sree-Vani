@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 I am a Passionate Full Stack Developer(using MERN) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m currently working on basic MERN projects
 
-- :seedling: I'm currently learning `MERN` stack
+- :seedling: I'm currently learning GraphQL
 
 -  👯 I’m looking to collaborate on open source project
 

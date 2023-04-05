@@ -20,7 +20,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<h3 align="center">I'm Ramisetti Sree Vani</h3>
+<h3 align="center">I'm Ramisetti Sree Vani</h3><br>
+<h5>Aspiring Full Stack Developer</h5>
 
 ### :eyes: Profile Views:
 

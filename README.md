@@ -48,7 +48,7 @@ I am a Passionate Full Stack Developer (using MERN) <img src="https://media.giph
 
 - :woman_technologist: All of my projects are available at https://r-sree-vani.github.io/
 
-- :speech_balloon: Ask me about HTML, CSS, JS
+- :speech_balloon: Ask me about HTML, CSS, JS, Bootstrap
 
 - :mailbox:How to reach me: sreevaniramisetti@gmail.com
 
